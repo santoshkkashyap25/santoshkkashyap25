@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @santoshkkashyap25
-- 👀 I’m interested in Python and Data Science. 
+- 👋 Hi, I’m Santosh K Kashyap
+- 👀 I’m interested in Python, Java and Data Science. 
 - 🌱 I’m currently learning ML.
 - 
 <!---
