@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Santosh K Kashyap
+- 👋 Hi, I’m Santosh K Kashyap.
 - 👀 I’m interested in C++ , Python, Data Science , ML and NLP. 
 - 🌱 I have worked on Data Races detection in concurrent programs using Deep learning.
 - 🌱 I’m currently working on GenAI based projects.
