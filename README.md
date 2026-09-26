@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Santosh K Kashyap.
-- 🌱 I’m currently working on AI/ML and GenAI based projects.
-<!---
-santoshkkashyap25/santoshkkashyap25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there, I'm Santosh K Kashyap 👋
+
+<img align="right" src="https://komarev.com/ghpvc/?username=santoshkkashyap25&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+I am an **AI/ML Engineer** with a strong background in building production-grade Generative AI systems, LLM evaluation pipelines, agent runtimes, and advanced RAG architectures. I hold an M.Tech in Computer Science from **MNIT Jaipur** and a B.Tech (Gold Medalist) from HPTU.
+
+---
